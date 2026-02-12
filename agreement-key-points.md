@@ -2,14 +2,13 @@
 
 ## Parties
 
-- **Contractor (Party A):** Suresh Hemal Warnasooriya
-- **Client (Party B):** Screenline Holdings (Pvt) Ltd
-- **Client representative:** [Software Engineer — name to fill]
+- **Contractor (Party A):** Suresh Hemal & Kushan Gayantha
+- **Client (Party B):** To be determined
 
 ## Definitions
 
-- **Contractor** — Suresh Hemal Warnasooriya
-- **Client** — Screenline Holdings (Pvt) Ltd and its representatives
+- **Contractor** — Suresh Hemal and Kushan Gayantha
+- **Client** — The party named as Client (Party B) in the Parties section and its representatives
 - **Services** — Software engineering or related work performed by the Contractor under this Agreement
 - **Calendar days** — Consecutive days including every day of the week and every day of the year; no exclusion for weekends, public holidays, or mercantile holidays
 
@@ -18,7 +17,7 @@
 ### 1. Engagement and commercial terms
 
 - **1. Engagement** — The Contractor is engaged as a part-time contractor. No employment relationship is created.
-- **2. Hours** — The Contractor shall make himself available for a minimum of 30 hours and a maximum of 60 hours per month, unless otherwise agreed in writing.
+- **2. Hours** — The Contractor shall make themselves available for a minimum of 30 hours and a maximum of 60 hours per month, unless otherwise agreed in writing.
 - **3. Rate** — LKR 4,000 (Sri Lankan Rupees Four Thousand) per hour for all approved hours worked. This rate applies only to this Agreement and only for the period ending 2026-12-31. Work outside this Agreement or after that date may be at a different rate.
 - **4. Hours over 60 per month** — If the Contractor will work more than 60 hours in any month, the Contractor must request and obtain prior confirmation from the Client before doing so. Work beyond 60 hours is paid at the same rate only when such confirmation has been obtained.
 - **5. Additional developers** — The Client may arrange for additional developers to work with the Contractor. The Contractor is not responsible for their compensation. The Contractor charges only for the Contractor’s own hours. The Client pays any such additional developers separately as needed.
