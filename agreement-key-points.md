@@ -27,7 +27,7 @@
 ### 2. Scope, delivery and requirements
 
 - **7. Testing environments and deployment** — The Client shall provide testing environments. The Contractor will deliver the codebase to the Client. The Contractor has no responsibility for or involvement in the deployment process or related infrastructure.
-- **8. Contractor-hosted testing environment (optional)** — Alternatively, the Contractor may host a testing environment at the Contractor’s own setup. In that case, the Contractor will charge for those hosting/services separately. Service charge pricing for such hosting will be set out in the Amendment to this Agreement.
+- **8. Contractor-hosted testing environment (optional)** — Alternatively, the Contractor may host a testing environment at the Contractor’s own setup. In that case, the Contractor will charge for those hosting/services separately. Staging and QA hosting charges are not set out in the Amendment and will be agreed separately.
 - **9. Serverless vs non-serverless** — Before development begins, the Client must confirm whether the application is to be serverless or not. Any change to this (e.g. from serverless to server-based, or vice versa) after completion of the work will be treated as new work and charged separately.
 - **10. Single point of contact for requirements** — The Client shall designate one person responsible for delivering requirements to the Contractor. The Contractor will follow requirements only from that designated person and is not obliged to act on requirements or instructions from others who claim to know the requirements. To avoid conflict of personal interests, the Client agrees to assign and maintain this single point of contact for requirements.
 
@@ -70,7 +70,7 @@
 ### 9. Liability and hosting by Contractor
 
 - **29. Limitation of liability** — The Contractor has no liability for deployment, third-party services, or the Client’s use of the code or deliverables when the Client hosts or deploys the work. The Contractor is not responsible for any loss, damage, or claim arising from how the Client deploys, operates, or uses the work or from any third-party services or systems.
-- **30. Hosting by Contractor — liability and charges** — If the Contractor hosts the project (staging or production), the Contractor is liable for those deployments. For **both staging and production** servers, usage-based charges will be collected by the Contractor; the rates or basis are set out in an amendment to this Agreement and may change in the future. For **production** only, an additional service charge will apply for the production application; the amount or basis will be determined in a future amendment. This Agreement only covers staging and production stress testing. Real (live) application hosting is outside the scope of this Agreement; if the Client requires hosting of the live production application, it shall be agreed in a separate agreement, and the charges for such hosting must be agreed separately.
+- **30. Hosting by Contractor — liability and charges** — If the Contractor hosts the project, the Contractor is liable for those deployments. For **staging** applications, the Contractor will charge based on usage; those charges are not set out in this Agreement and will be agreed or quoted separately. The plans set out in the **Amendment** (Plan 1, Plan 2, Plan 3) are available for **production applications only**. For **QA environments**, charges are lower than for production and will be agreed or quoted separately.
 
 ### 10. Contractor status and scope
 
@@ -99,6 +99,48 @@
 ### Amendment — Pay as you go / service charges
 
 **Invoice rule:** First-time domain is invoiced separately (upfront). All other services and domain renewal from year 2 onward are added into the regular monthly invoice.
+
+---
+
+#### All-in-one plans
+
+**Plan charges:** The stated plan charges may be changed in the future. Any such change may reflect, among other factors, changes in the USD exchange rate. The Client will be notified of any change at least 30 calendar days in advance (or as otherwise agreed between the parties).
+
+**Plan 1** (monthly, LKR 30,000)
+
+| Component    | Included |
+|-------------|----------|
+| Domain      | 1 × .com |
+| Hosting     | 1 vCPU, 512 MB RAM, 50 GB bandwidth |
+| Broadcasting| 100 concurrent connections, 200,000 messages per day |
+| Cache       | 10,000 commands/second; 50 GB bandwidth; 250 MB storage; 100 MB record size |
+| Database    | 500 compute hours, 10 GB storage, 10 GB transfer |
+
+- **Invoice:** 30,000 LKR per month, every month.
+
+**Plan 2** (monthly, LKR 50,000)
+
+| Component    | Included |
+|-------------|----------|
+| Domain      | 1 × .com |
+| Hosting     | 2 vCPU, 1 GB RAM, 100 GB bandwidth |
+| Broadcasting| 100 concurrent connections, 200,000 messages per day |
+| Cache       | 10,000 commands/second; 100 GB bandwidth; 1 GB storage; 200 MB record size |
+| Database    | 1,000 compute hours, 50 GB storage, 50 GB transfer |
+
+- **Invoice:** 50,000 LKR per month, every month.
+
+**Plan 3** (monthly, LKR 85,000)
+
+| Component    | Included |
+|-------------|----------|
+| Domain      | 1 × .com |
+| Hosting     | 4 vCPU, 4 GB RAM, 200 GB bandwidth |
+| Broadcasting| 500 concurrent connections, 1,000,000 messages per day |
+| Cache       | 10,000 commands/second; 100 GB bandwidth; 1 GB storage; 200 MB record size |
+| Database    | 1,000 compute hours, 50 GB storage, 50 GB transfer |
+
+- **Invoice:** 85,000 LKR per month, every month.
 
 ---
 
